@@ -1,0 +1,2 @@
+local TPS = game:GetService("TeleportService")
+TPS: Teleport(Your Game ID)
